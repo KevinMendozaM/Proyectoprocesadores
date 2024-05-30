@@ -57,4 +57,5 @@ public class procesador {
         System.out.println("VeLocidad: " + velocidad);
         System.out.println("Nombre: " + nombre);
     }
+    //  Prueba
 }
