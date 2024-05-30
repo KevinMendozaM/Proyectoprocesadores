@@ -23,6 +23,6 @@ public class procesador_escritorio extends procesador{
     }
     //imprimir datos
     public void imprimir_datos_escritorio(){
-        System.out.println(socket);
+        System.out.println("socket: " + socket);
     }
 }

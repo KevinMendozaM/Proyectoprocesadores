@@ -19,6 +19,6 @@ public class procesador_AMD extends procesador{
     }
     //imprimir datos
     public void imprimir_datos_escritorio(){
-        System.out.println(sensor_temperatura);
+        System.out.println("sensor de temperatura: " + sensor_temperatura);
     }
 }

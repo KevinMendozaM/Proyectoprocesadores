@@ -19,6 +19,6 @@ public class procesador_intel extends procesador{
     }
     //imprimir datos
     public void imprimir_datos_escritorio(){
-        System.out.println(tarjeta_video);
+        System.out.println("tarjeta de video: " + tarjeta_video);
     }
 }
